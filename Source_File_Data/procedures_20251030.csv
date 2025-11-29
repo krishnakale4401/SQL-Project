@@ -1,0 +1,81 @@
+procedure_id,encounter_id,procedure_description
+1,84,Coronary Artery Bypass Grafting
+2,75,Total Knee Replacement
+3,25,Total Hip Replacement
+4,67,Appendectomy
+5,88,Magnetic Resonance Imaging (MRI)
+6,76,Computed Tomography (CT) Scan
+7,26,Ultrasound Abdomen
+8,79,Chest X-Ray
+9,56,Complete Blood Count (CBC)
+10,24,Chemotherapy Session
+11,59,Hemodialysis
+12,31,Upper GI Endoscopy
+13,59,Colonoscopy
+14,29,Coronary Angioplasty (PCI)
+15,25,Cataract Extraction
+16,16,Physiotherapy Session
+17,89,Vaccination Dose
+18,69,Laparoscopic Surgery
+19,70,Biopsy
+20,97,Electrocardiogram (ECG)
+21,94,PET Scan
+22,65,Dialysis Catheter Insertion
+23,69,ERCP
+24,53,Hysterectomy
+25,75,Mastectomy
+26,44,Prostatectomy
+27,74,Tonsillectomy
+28,72,Vasectomy
+29,45,Lithotripsy
+30,30,Cholecystectomy
+31,14,Spinal Fusion
+32,81,Scoliosis Correction
+33,57,Pacemaker Implantation
+34,81,Thyroidectomy
+35,48,Gastric Bypass
+36,40,Bowel Resection
+37,76,Skin Grafting
+38,71,Burn Debridement
+39,69,Hip Arthroscopy
+40,56,Shoulder Arthroscopy
+41,25,Knee Arthroscopy
+42,44,Carpal Tunnel Release
+43,86,Rotator Cuff Repair
+44,36,ACL Reconstruction
+45,71,Meniscectomy
+46,82,Sinus Surgery
+47,89,Ear Tube Insertion
+48,72,Septoplasty
+49,21,Rhinoplasty (functional)
+50,51,Osteotomy
+51,97,Coronary Stent Placement
+52,20,Bronchoscopy
+53,62,Renal Biopsy
+54,39,Liver Biopsy
+55,44,Bone Marrow Biopsy
+56,75,Cerebral Angiography
+57,36,Lumbar Puncture
+58,79,Vertebroplasty
+59,50,Stereotactic Radiosurgery
+60,41,Endovascular Aneurysm Repair
+61,54,Peripheral Angioplasty
+62,49,Varicose Vein Stripping
+63,87,Aortic Valve Replacement
+64,89,Mitral Valve Repair
+65,99,Dental Extraction
+66,72,Root Canal Therapy
+67,53,Orthodontic Braces Fitting
+68,55,Eye LASIK Surgery
+69,76,Hernia Repair
+70,13,Anal Fissure Surgery
+71,84,Fistula Surgery
+72,15,Endoscopic Sinus Surgery
+73,65,Anal Sphincterotomy
+74,39,Ureteroscopy
+75,74,Proctoscopy
+76,25,Hematoma Evacuation
+77,29,Cervical Spine Surgery
+78,18,Thoracic Spine Surgery
+79,28,Pelvic Organ Prolapse Repair
+80,56,Uterine Fibroid Embolization
