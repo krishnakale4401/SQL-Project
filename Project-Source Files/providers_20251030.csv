@@ -1,0 +1,101 @@
+provider_id,first_name,last_name,specialty,npi
+1,Rahul,Shah,Urology,4029307744
+2,Usha,Trivedi,Dermatology,2576367862
+3,Riya,Iyer,ENT,1981438200
+4,Meera,Mehta,Gastroenterology,3641845469
+5,Shreya,Bhatia,Pediatrics,1878829664
+6,Shubham,Chawla,Cardiology,5084988685
+7,Yash,Ghosh,Neurology,1294024537
+8,Vandana,Banerjee,ENT,6198935344
+9,Indu,Naik,Orthopedics,8965412834
+10,Meera,Shah,Oncology,1981404742
+11,Lakshmi,Saxena,Urology,1260183355
+12,Meera,Deshmukh,Urology,6354616955
+13,Radha,Verma,Orthopedics,1047670061
+14,Nisha,Chopra,Orthopedics,8828572765
+15,Pratik,Bhatia,Dermatology,3129460135
+16,Sangeeta,Tiwari,General Medicine,1264427364
+17,Ishaan,Malhotra,Pediatrics,9184719666
+18,Shubham,Tiwari,Urology,2487536429
+19,Rachna,Rao,General Medicine,8156662785
+20,Lata,Rao,ENT,5775088500
+21,Vandana,Tiwari,Cardiology,1052838829
+22,Deepak,Jha,Dermatology,9188749854
+23,Meera,Chawla,Neurology,3087238449
+24,Yash,Mehta,Neurology,3737755915
+25,Ajay,Naik,Cardiology,5058787181
+26,Pranav,Sethi,General Medicine,4272325533
+27,Anil,Kumar,Gastroenterology,8401163664
+28,Aditya,Shah,Cardiology,8810056880
+29,Mohit,Sharma,Dermatology,8210508123
+30,Praveen,Singh,Orthopedics,7995228805
+31,Swati,Naik,Urology,1217825229
+32,Alka,Joshi,Oncology,6760418212
+33,Rohit,Verma,General Medicine,2699463654
+34,Sangeeta,Menon,Urology,5718220218
+35,Sanjay,Naik,Dermatology,2981566089
+36,Amit,Rao,Dermatology,4958739322
+37,Pallavi,Bajaj,Orthopedics,1367715110
+38,Diya,Nair,General Medicine,8566983750
+39,Vikram,Verma,Dermatology,2111195824
+40,Siddharth,Mehta,Dermatology,3736039412
+41,Shruti,Singh,General Medicine,5978285006
+42,Ramesh,Joshi,Pediatrics,4024648849
+43,Amit,Jha,Dermatology,4798884268
+44,Karan,Kapoor,Dermatology,9149114249
+45,Vikram,Chopra,Gastroenterology,2415447645
+46,Diya,Kumar,Pediatrics,5208845489
+47,Pranav,Iyer,Orthopedics,4746948383
+48,Amit,Joshi,Pediatrics,9190520357
+49,Sangeeta,Bansal,ENT,5631301372
+50,Rachna,Patel,Cardiology,5207187045
+51,Smita,Ghosh,Neurology,6618246971
+52,Vivaan,Saxena,Oncology,8522043531
+53,Riya,Bajaj,Neurology,4530532995
+54,Manish,Nair,Dermatology,1870405809
+55,Nikhil,Iyer,Pediatrics,5563181197
+56,Yash,Bhatia,Pediatrics,2502343747
+57,Seema,Deshmukh,Cardiology,2412925149
+58,Asha,Pandey,Neurology,2776094417
+59,Harsh,Reddy,Orthopedics,9642271883
+60,Ajay,Ghosh,Gastroenterology,4865354983
+61,Vandana,Malhotra,General Medicine,2361523335
+62,Alka,Bhattacharya,Oncology,5698998622
+63,Asha,Ghosh,ENT,8738783923
+64,Rohit,Bansal,Urology,5747269339
+65,Mohit,Sharma,Neurology,6154387171
+66,Seema,Malhotra,Urology,9119526232
+67,Meera,Pandey,Pediatrics,2820830203
+68,Swati,Pillai,Pediatrics,9836690313
+69,Lata,Gupte,General Medicine,6161922783
+70,Nilesh,Verma,ENT,4477585233
+71,Meera,Patel,Oncology,4098708615
+72,Anil,Tiwari,General Medicine,6801741017
+73,Ananya,Saxena,Orthopedics,9486526536
+74,Meera,Roy,Gastroenterology,2588296461
+75,Sonia,Tiwari,General Medicine,9584116368
+76,Rohan,Verma,General Medicine,8295773406
+77,Lakshmi,Mehta,Gastroenterology,7447196555
+78,Neha,Kulkarni,Oncology,2040342183
+79,Aditya,Tiwari,Gastroenterology,9798652222
+80,Asha,Banerjee,ENT,3109555221
+81,Vivaan,Sethi,Pediatrics,2073741317
+82,Rahul,Chopra,ENT,9133115475
+83,Kavya,Kapoor,Cardiology,3964224043
+84,Rohit,Naik,Oncology,5767998385
+85,Smita,Pillai,Neurology,1984466760
+86,Ishaan,Tiwari,General Medicine,6275128446
+87,Mohit,Kulkarni,Cardiology,3002372481
+88,Pooja,Chawla,Dermatology,5734166616
+89,Aarav,Naik,Neurology,4927186305
+90,Gaurav,Iyer,Gastroenterology,4343522666
+91,Aarav,Roy,Oncology,5099332809
+92,Ajay,Bhatia,Gastroenterology,5027107428
+93,Vikas,Dutta,Neurology,4637729041
+94,Nikhil,Menon,ENT,5175005459
+95,Vikram,Rastogi,Urology,7945541483
+96,Lakshmi,Bhattacharya,Urology,4008523561
+97,Jyoti,Nair,Orthopedics,9288964467
+98,Meera,Jha,Cardiology,5328925376
+99,Vivaan,Chawla,Urology,5614520964
+100,Pranav,Bajaj,Gastroenterology,7316387795
